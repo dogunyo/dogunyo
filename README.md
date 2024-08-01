@@ -1,23 +1,4 @@
-### Hello👋 <h2> I'm Dennis Ogunyo </h2>
-
-  ```javascript
-const ogunyo = {
-    askMeAbout: ["web dev", "app dev", "tech"],
-    code: ["javascript", "typescript", "HTML", "css"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular", "Next"],
-            css: ["bootstrap", "tailwind", "material-ui", "chakra-ui"]
-        },
-        backEnd: ["Python", "PHP", "Node js Express js"],
-        frameWork: ["Laravel", "Django" ],
-        mobileDev: ["Flutter", "React Native"],
-        databases: ["MySql", "Mongo DB", "Postgres"],
-    },
-     architecture: ["Serverless Architecture", "microservices", "Event-driven", "Single page applications"],
-     organsations: ["Devs & Graphics KE"]
-};
-```
+### Hello👋 <h2> I'm Dennis Ogunyo </h2>```
 
 <h3>🛠 Currently Learning:</h3>
 
