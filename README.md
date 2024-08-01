@@ -1,4 +1,4 @@
-### Hello👋 <h2> I'm Dennis Ogunyo </h2>```
+### Hello👋 <h2> I'm Dennis Ogunyo </h2>
 
 <h3>🛠 Currently Learning:</h3>
 
@@ -23,13 +23,13 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 
-<a href="https://twitter.com/bake_baller"><img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social"></a>
+<a href="https://x.com/nikokadi_"><img alt="Twitter" src="https://img.shields.io/twitter/follow/nikokadi_?style=social"></a>
 
-<a href="https://www.instagram.com/iamomoroit/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamomoroit-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/dennis-ogunyo-13230631b/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-dennisogunyo-black?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:iamomoroit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-:iamomoroit@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:denogunyo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-denogunyo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=iamomoro.iamomoro)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=dogunyo.dogunyo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 </p>
 
